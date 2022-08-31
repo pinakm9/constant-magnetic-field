@@ -1,0 +1,2 @@
+model_checkpoint_path: "magnetic_potential"
+all_model_checkpoint_paths: "magnetic_potential"
